@@ -87,7 +87,7 @@
 keyboard 设置，方便以可视化的模式变更窗口大小：
 
 - Trigger keyboard control with hot key:  ⌥ + 9, ☑ show cheat sheet, ☑ repeat to show grid.
-![moom-keyboard](https://github.com/huo108/oh_my_mac/tree/master/screenshot/screenshot-moom-keyboard.png)
+![moom-keyboard](https://github.com/huo108/oh_my_mac/blob/master/screenshot/screenshot-moom-keyboard.png)
     
 - 自定义快捷键，方便快速在窗口最大化、还原、以半屏的方式展示之间切换，方便在多个显示器里快速布局窗口。
     - ⌥ + 1, move & zoom, 最大化窗口.
@@ -95,7 +95,7 @@ keyboard 设置，方便以可视化的模式变更窗口大小：
     - ⌥ + 3, move & zoom, 最大化到当前窗口左半屏幕
     - ⌥ + 4, move & zoom, 最大化到当前窗口右半屏幕
     - ⌥ + 0, move to other display, ☑ Resize proportionally, ☑ Loop through displays.
-    ![moom-custom](https://github.com/huo108/oh_my_mac/tree/master/screenshot/screenshot-moom-custom.png)
+    ![moom-custom](https://github.com/huo108/oh_my_mac/blob/master/screenshot/screenshot-moom-custom.png)
 
 ### 2.3 Jitouch
 [Jitouch](https://www.jitouch.com/)，触摸板/Magic Mouse手势增强
@@ -261,7 +261,7 @@ to source the file to update your current session):
 
 ### 3.4 基础命令
 - [tldr](http://tldr-pages.github.io/)，没耐心看 man 时，可使用 tldr 方便查看命令基本用法。
-    ![tldr](https://github.com/huo108/oh_my_mac/tree/master/screenshot/screenshot-tldr.png)
+    ![tldr](https://github.com/huo108/oh_my_mac/blob/master/screenshot/screenshot-tldr.png)
 
 - man, eg. man grep
 
