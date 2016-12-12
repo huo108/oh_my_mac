@@ -276,7 +276,7 @@ to source the file to update your current session):
     eg: "st ." open current path in SublimeText
 
 - [autojump](https://github.com/wting/autojump#usage)  
-    ![autojump](https://github.com/huo108/oh_my_mac/tree/master/screenshot/screenshot-autojump.png)
+    ![autojump](https://github.com/huo108/oh_my_mac/blob/master/screenshot/screenshot-autojump.png)
     - j foo, Jump To A Directory That Contains foo.
     - jo foo, Instead of jumping to a directory, you can open a file explorer window.
 
