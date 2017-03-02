@@ -133,7 +133,7 @@ keyboard 设置，方便以可视化的模式变更窗口大小：
 - [Reeder](http://reederapp.com/mac/)，RSS 阅读
 - [RescueTime](https://www.rescuetime.com/)，记录个人应用程序使用时间、浏览网站时间，统计分析个人工作习惯，辅助改善工作效率
 - [TeamViewer](https://www.teamviewer.com/en/index.aspx)，跨平台远程协助工具
-
+- XPS TO PDF  xps转成pdf
 ### Finder 文件预览插件
 先安装 [brew cask](#31-homebrew)。然后安装[常用文件预览插件](https://github.com/sindresorhus/quick-look-plugins)，增强 Mac 的文件预览功能。
 - QLColorCode (代码高亮) `brew cask install qlcolorcode`
